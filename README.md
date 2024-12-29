@@ -1,5 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
+<html lang="ru">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -143,9 +142,9 @@
 <body>
     <header>
         <nav>
-            <a href="glavv.html">Главная</a>
-            <a href="shop.html">Магазин</a>
-            <a href="forum.html">Форум</a>
+            <a href="https://standbase.github.io/Legacy/" target="_blank">Главная</a>
+            <a href="https://standbase.github.io/Legacy-shop/" target="_blank">Магазин</a>
+            <a href="https://standbase.github.io/Legacy-forum/" target="_blank">Форум</a>
         </nav>
         <button class="start-game">Начать игру</button>
     </header>
