@@ -144,7 +144,7 @@
     <nav>  
         <a href="https://standbase.github.io/Legacy/" target="_blank">Главная</a>  
         <a href="https://standbase.github.io/Legacy-shop/" target="_blank">Магазин</a>  
-        <a href="https://standbase.github.io/Legacy-forum/" target="_blank">Форум</a>  
+        <a href="https://legacy.sampproject.ru/index.php" target="_blank">Форум</a>  
     </nav>  
     <button class="start-game" onclick="location.href='https://drive.usercontent.google.com/download?id=1G2AUWPlsuwI6gHmk4t_8tVIj0qhoorkU&export=download&authuser=0'">Начать игру</button>  
 </header>
